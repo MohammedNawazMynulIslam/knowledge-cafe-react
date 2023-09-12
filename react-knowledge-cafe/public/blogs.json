@@ -1,0 +1,52 @@
+[
+    {
+      "id": 12345,
+      "cover": "https://i.ibb.co/FhLjK54/life-insurance-policy-terms-use-concept.jpg",
+      "title": "The Secret Garden",
+      "author": "Emily Smith",
+      "author_img": "https://i.ibb.co/dBc4MmL/close-up-nice-friendly-nice-young-woman-glasses-stands-calm.jpg",
+      "posted_date": "September 12, 2023",
+      "reading_time": 2,
+      "hashtags": ["#fiction", "#classic", "#gardening"]
+    },
+    {
+      "id": 67890,
+      "cover": "https://i.ibb.co/FhLjK54/life-insurance-policy-terms-use-concept.jpg",
+      "title": "The Galactic Adventure",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/dBc4MmL/close-up-nice-friendly-nice-young-woman-glasses-stands-calm.jpg",
+      "posted_date": "September 10, 2023",
+      "reading_time": 3.5,
+      "hashtags": ["#sciencefiction", "#space", "#adventure"]
+    },
+    {
+      "id": 24680,
+      "cover": "https://i.ibb.co/FhLjK54/life-insurance-policy-terms-use-concept.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Sarah Johnson",
+      "author_img": "https://i.ibb.co/dBc4MmL/close-up-nice-friendly-nice-young-woman-glasses-stands-calm.jpg",
+      "posted_date": "September 8, 2023",
+      "reading_time": 1.5,
+      "hashtags": ["#mystery", "#thriller", "#suspense"]
+    },
+    {
+      "id": 13579,
+      "cover": "https://i.ibb.co/FhLjK54/life-insurance-policy-terms-use-concept.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/dBc4MmL/close-up-nice-friendly-nice-young-woman-glasses-stands-calm.jpg",
+      "posted_date": "September 6, 2023",
+      "reading_time": 2.5,
+      "hashtags": ["#fantasy", "#magic", "#nature"]
+    },
+    {
+      "id": 97531,
+      "cover": "https://i.ibb.co/FhLjK54/life-insurance-policy-terms-use-concept.jpg",
+      "title": "Cooking with Flavors",
+      "author": "Lisa Miller",
+      "author_img": "https://i.ibb.co/dBc4MmL/close-up-nice-friendly-nice-young-woman-glasses-stands-calm.jpg",
+      "posted_date": "September 4, 2023",
+      "reading_time": 1,
+      "hashtags": ["#cooking", "#recipes", "#foodie"]
+    }
+]
